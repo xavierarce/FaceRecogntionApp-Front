@@ -1,4 +1,4 @@
-*Components Creation*
+*Component s Creation*
 
 NPMs Installed
 1. Installed Tachyons and imported on Index.js
